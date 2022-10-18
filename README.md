@@ -21,7 +21,7 @@ Note: The repository name is unrelated to the project to prevent current student
 		Version Number: 	PyCharm 2022.2.2 (Community Edition)
     
 
-P.S. The accompining documentation (Project Overview) is rather long, but breaks down things like the choice of algorithms and big-o analysis for the project. (see [Supporting Documents](https://github.com/zyber-sudo/fictional-umbrella/edit/main/README.md#supporting-documents)) 
+P.S. The accompining documentation (Project Overview) is rather long, but breaks down things like the choice of algorithms and big-o analysis for the project. (see [Supporting Documents](https://github.com/zyber-sudo/fictional-umbrella#supporting-documents)) 
 
 ## Competencies:
 These are the competencies the student needs to have to create the project and pass the class.
