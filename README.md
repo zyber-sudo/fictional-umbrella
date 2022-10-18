@@ -4,6 +4,8 @@ Note: The repository name is unrelated to the project to prevent current student
 ## TL;DR
 	Purpose: 
 		To create a self adjusting hash table (without the built in hash()), but also impliment an algorithm for the Travelling Salesman Problem. 
+		
+		
 
 	Author:
 		Zachary Zamiska
@@ -16,9 +18,11 @@ Note: The repository name is unrelated to the project to prevent current student
 		---> v1.0
 
 	IDE: 
-		Version Number: 	I
+		Version Number: 	PyCharm 2022.2.2 (Community Edition)
     
-    
+
+P.S. The accompining documentation (Project Overview) is rather long, but breaks down things like the choice of algorithms and big-o analysis for the project. (see [Supporting Documents](https://github.com/zyber-sudo/fictional-umbrella/edit/main/README.md#supporting-documents)) 
+
 ## Competencies:
 These are the competencies the student needs to have to create the project and pass the class.
 
@@ -54,3 +58,7 @@ Your task is to determine an algorithm, write code, and present a solution where
 Keep in mind that the supervisor should be able to see, at assigned points, the progress of each truck and its packages by any of the variables listed in the “WGUPS Package File,” including what has been delivered and at what time the delivery occurred.
 
 ### Supporting Documents:
+
+- [Package CSV](https://github.com/zyber-sudo/fictional-umbrella/blob/main/WGUPS%20Package%20File%20(1).xlsx)
+- [Distance Table CSV](https://github.com/zyber-sudo/fictional-umbrella/blob/main/WGUPS%20Distance%20Table%20(1).xlsx)
+- [Project Overview](https://github.com/zyber-sudo/fictional-umbrella/blob/main/C950WGUPSAlgorithmOverviewZamiska.docx)
